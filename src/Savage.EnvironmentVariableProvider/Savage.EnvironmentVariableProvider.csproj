@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net45;net46;</TargetFrameworks>
+    <RootNamespace>Savage.Providers</RootNamespace>
+    <Title>EnvVarProvider</Title>
+    <Authors>Alan Savage</Authors>
+    <Description>Library for working with Environment Variables which helps with testing.</Description>
+    <Copyright>© 2018 Alan Savage</Copyright>
+    <PackageProjectUrl>https://github.com/alansav/env_var_provider</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/alansav/env_var_provider</RepositoryUrl>
+    <PackageTags>Environment Variables;env;env vars;envvar</PackageTags>
+    <PackageId>EnvVarProvider</PackageId>
+    <Product>Savage.EnvVarProvider</Product>
+    <!-- Version elements are intentionally empty as they are provided by the build process-->
+    <Version></Version>
+    <PackageVersion></PackageVersion>
+    <AssemblyVersion></AssemblyVersion>
+    <FileVersion></FileVersion>
+    <InformationalVersion></InformationalVersion>
+  </PropertyGroup>
+
+</Project>
